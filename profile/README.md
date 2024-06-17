@@ -5,7 +5,7 @@
 HICARE is an innovative app designed to help farmers detect diseases in lettuce plants using image classification technology. The app allows users to upload photos of lettuce plants and get accurate disease predictions, as well as save the prediction results for future reference. In addition, HICARE is equipped with a Gemini API-based AI chat feature that specifically answers questions related to lettuce and hydroponic diseases. Users can also access various informative articles on hydroponic plant care, thereby increasing their knowledge and skills in hydroponic plant cultivation.
 
 
-## [Download App Here (.apk file)]([https://drive.google.com/drive/folders/1c-BPaxhh2_TOb_9CjSsYZoSoXHS4luN2](https://drive.google.com/drive/folders/12iIlYd0sK7xviEmGx5vagKrBAPxiTjqM?usp=sharing))📲
+## [Download App Here (.apk file)](https://drive.google.com/drive/folders/12iIlYd0sK7xviEmGx5vagKrBAPxiTjqM?usp=sharing)📲
 
 # Team 🤝 :
 |          Nama         | Bangkit-ID |       Path       |
